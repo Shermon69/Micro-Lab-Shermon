@@ -1,6 +1,4 @@
-# SE4010 — Microservices Lab (Spring Boot)
-
-### Done by IT22292872 - W.M.V.S.B Wahundeniya
+# SE4010 — Microservices Lab (Spring Boot) IT 22177964 - Harrish Shermon 
 
 ## Project Structure
 
